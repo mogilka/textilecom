@@ -1,0 +1,50 @@
+#iContent p {
+	font-size:14px;
+	text-align:justify;
+	font-family:Verdana, Times, serif;
+	text-indent: 1.2em;
+	color:#000000;
+}
+#cloud-carousel {
+	background: transparent;
+	background-repeat: no-repeat;
+	height: 450px;
+	margin: -10px auto 10px;
+	overflow: scroll;
+	position: relative;
+	width: 850px;
+}
+#innerCarousel {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+#cloud-carousel img {
+	border: none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+#buttonLeft {
+	position: absolute;
+	width: 31px;
+	height: 46px;
+	bottom: 20px;
+	right: 20px;
+	background-image: url('rightarrow.png');
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+#buttonRight {
+	position: absolute;
+	width: 31px;
+	height: 46px;
+	bottom: 20px;
+	right: 60px;
+	background-image: url('leftarrow.png');
+	cursor: pointer;
+}
+#buttonLeft:hover, #buttonRight:hover {
+    opacity: 0.8;
+}

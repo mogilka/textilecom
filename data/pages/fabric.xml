@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 13 May 2013 01:15:21 +0600</pubDate><title>Ткани</title><url>fabric</url><meta>продажа тканей, ткани для автомобильных кресел, ткани для перетяжки автомобильных салонов, чехлы для автокресел, перетяжка автосалона, Казахстан, Астана</meta><metad>Студия текстильного дизайна TextileCom - услуги по пошиву, продажа тканей</metad><menu>Ткани</menu><menuStatus>Y</menuStatus><template>template.php</template><parent/><content>&amp;lt;p&amp;gt;
+	Предлагаем вам большой выбор тканей для пошива чехлов для домашней и ресторанной мебели, для перетяжки автокресел и автомобильных салонов.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;float-right&amp;quot;&amp;gt;
+	&amp;lt;a href=&amp;quot;http://textilecom.kz/fabric/economfabric/&amp;quot;&amp;gt;«Эконом» ткани&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt;
+	Нажмите на фото для увеличения&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	(% gallery name=fabric %)&amp;lt;/p&amp;gt;
+</content><private/><author>saltanat</author><menuOrder><![CDATA[3]]></menuOrder></item>

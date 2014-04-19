@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[meetus]]></title><slug>meetus</slug><value><![CDATA[Договоритесь о встрече
+Вы заинтересованы в том, чтобы больше узнать о нашей продукции и ценах на товары? Напишите письмо нам на странице &lt;a target=&quot;_self&quot; href=&quot;/kontakty/&quot;&gt;Контакты&lt;/a&gt;. Скажите, когда Вам удобней всего встретиться, и мы постарамся подстроить наше расписание]]></value></item><item><title><![CDATA[Sidebar]]></title><slug>sidebar</slug><value><![CDATA[&lt;aside id=&quot;sidebar&quot;&gt;
+	&lt;div class=&quot;section&quot;&gt;
+		&lt;h2&gt;Наши работы&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;/cover/&quot; /&gt;
+                &lt;img src=&quot;/data/uploads/gicons/cover.jpg&quot; alt=&quot;Чехлы для мягкой мебели&quot; align=&quot;left&quot; /&gt;
+                &lt;span&gt;Чехлы для мягкой мебели&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/cover-before-after/&quot; /&gt;
+                &lt;img src=&quot;/data/uploads/gicons/sofa.jpg&quot; alt=&quot;Мебель до и после использования защитных чехлов&quot; align=&quot;left&quot; /&gt;
+                &lt;span&gt;Мебель до и после!&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/curtain/&quot; /&gt;
+                &lt;img src=&quot;/data/uploads/gicons/curtain.jpg&quot; alt=&quot;Шторы, гардины, ламбрекены&quot; align=&quot;left&quot; /&gt;
+                &lt;span&gt;Шторы, ламбрекены&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+        	&lt;li&gt;&lt;a href=&quot;/patchwork/&quot; /&gt;
+                &lt;img src=&quot;/data/uploads/gicons/korpe.jpg&quot; alt=&quot;Курак-корпе, подушки, лоскутное шитьё, пэчворк&quot; align=&quot;left&quot; /&gt;
+                &lt;span&gt;Курак-корпе&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+        	&lt;li&gt;&lt;a href=&quot;/quilting/&quot; /&gt;
+                &lt;img src=&quot;/data/uploads/gicons/blanket.jpg&quot; alt=&quot;Одеяла, подушки, стёганые изделия, квилтинг&quot; align=&quot;left&quot; /&gt;
+                &lt;span&gt;Одеяла&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;
+	&lt;/div&gt;
+	
+	&lt;div class=&quot;section&quot;&gt;
+        &lt;h2&gt;Наши партнёры&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;http://zerecom.kz&quot; target=&quot;_blank&quot; /&gt;
+                &lt;b&gt;Компания &amp;laquo;Зере&amp;raquo;&lt;/b&gt; &amp;mdash; Строительство модульных зданий, блок-контейнеров&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;
+	&lt;/div&gt;
+&lt;/aside&gt;
+]]></value></item><item><title><![CDATA[Tagline]]></title><slug>tagline</slug><value><![CDATA[Услуги по пошиву штор, чехлов для мягкой мебели и изделий для дома]]></value></item></channel>

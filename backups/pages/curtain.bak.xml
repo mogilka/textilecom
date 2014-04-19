@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 10 Jul 2013 21:52:40 +0600</pubDate><title>Шторы, гардины, ламбрекены</title><url>curtain</url><meta>пошив штор, дизайн штор, дизайн гардин, пошив ламбрекенов, дизайн ламбрекенов, Казахстан, Астана, шторы для гостиной, шторы для столовой, шторы для кухни, шторы для детской, шторы для спальни</meta><metad>Студия текстильного дизайна Saltanat Brand Company - услуги по пошиву. Замеры на дому и доставка бесплатно. Большой выбор тканей. Казахстан, Астана</metad><menu>Дизайн и пошив штор, гардин, ламбрекенов</menu><menuStatus></menuStatus><template>template.php</template><parent>portfolio</parent><content>&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	Шторы — одно из главных украшений интерьера: изысканные и строгие для гостиных, воздушные и изящные для спальни, креативные и радостные для детских комнат.&amp;lt;br /&amp;gt;
+	&amp;lt;strong&amp;gt;Привнесите красоту и изысканность в атмосферу вашей жизни!&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	Нажмите на фото для увеличения&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	&amp;lt;strong&amp;gt;Шторы для гостиной&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	(% gallery name=curtain %)&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	&amp;lt;strong&amp;gt;Шторы для кухни, столовой&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	(% gallery name=diningroom %)&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	&amp;lt;strong&amp;gt;Шторы для детской&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	(% gallery name=childroom %)&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	&amp;lt;strong&amp;gt;Шторы для спальни&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt;
+	(% gallery name=bedroom %)&amp;lt;/p&amp;gt;
+</content><private></private><author>saltanat</author><menuOrder><![CDATA[1]]></menuOrder></item>

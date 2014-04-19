@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 13 May 2013 01:11:41 +0600</pubDate><title><![CDATA[Ткани]]></title><url><![CDATA[fabric]]></url><meta><![CDATA[Студия текстильного дизайна, пошив, пошив чехлов, мягкая мебель, пошив штор, гардины, пошив ламбрекенов, скатерти, салфетки, пошив одеял, квилтинг, пэчворк, пошив постельного белья, пошив спецодежды, пошив униформы, пошив рабочей одежды, чехлы, шторы, ламбрекены, одеяла, постельное бельё, спецодежда, униформа, рабочая одежда, курак-корпе, корпе, Казахстан, Астана]]></meta><metad><![CDATA[Студия текстильного дизайна Saltanat Brand Company - услуги по пошиву, ткани]]></metad><menu><![CDATA[Ткани]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;
+	Предлагаем вам большой выбор тканей для пошива чехлов для домашней и ресторанной мебели, для перетяжки автокресел и автомобильных салонов.&lt;/p&gt;
+&lt;div class=&quot;float-right&quot;&gt;
+	&lt;a href=&quot;http://textilecom.kz/fabric/economfabric/&quot;&gt;«Эконом» ткани&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;
+	Нажмите на фото для увеличения&lt;/p&gt;
+&lt;p&gt;
+	(% gallery name=fabric %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[saltanat]]></author><menuOrder><![CDATA[3]]></menuOrder></item>

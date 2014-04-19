@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 10 Jul 2013 21:54:16 +0600</pubDate><title><![CDATA[Чехлы для мебели]]></title><url><![CDATA[cover]]></url><meta><![CDATA[пошив чехлов для мебели, дизайн чехлов для мебели, чехлы для диванов, чехлы для угловых диванов, чехлы для кресел, чехлы для стульев, интерьер]]></meta><metad><![CDATA[Студия текстильного дизайна Saltanat Brand Company - услуги по пошиву. Замеры на дому и доставка бесплатно. Большой выбор тканей. Казахстан, Астана]]></metad><menu><![CDATA[Чехлы для мебели]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[portfolio]]></parent><content><![CDATA[&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Любимая мебель — диваны, кресла, стулья — будет радовать вас гораздо дольше, если позаботиться о её внешнем виде. Красивые и удобные в использовании чехлы избавят обивку от пыли, потёртостей и повреждений и станут дополнительным украшением вашего интерьера. Посмотрите, как выглядит мебель&amp;nbsp;&lt;a href=&quot;http://textilecom.kz/cover-before-after/&quot;&gt;до и после&lt;/a&gt; использования чехлов.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Нажмите на фото для увеличения&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Чехлы для диванов и кресел&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=coversofa %)&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Чехлы для стульев&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=coverchair %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[saltanat]]></author></item>

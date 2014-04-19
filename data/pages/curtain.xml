@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 10 Jul 2013 21:54:49 +0600</pubDate><title><![CDATA[Шторы, гардины, ламбрекены]]></title><url><![CDATA[curtain]]></url><meta><![CDATA[пошив штор, дизайн штор, дизайн гардин, пошив ламбрекенов, дизайн ламбрекенов, Казахстан, Астана, шторы для гостиной, шторы для столовой, шторы для кухни, шторы для детской, шторы для спальни]]></meta><metad><![CDATA[Студия текстильного дизайна Saltanat Brand Company - услуги по пошиву. Замеры на дому и доставка бесплатно. Большой выбор тканей. Казахстан, Астана]]></metad><menu><![CDATA[Шторы, гардины, ламбрекены]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[portfolio]]></parent><content><![CDATA[&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Шторы — одно из главных украшений интерьера: изысканные и строгие для гостиных, воздушные и изящные для спальни, креативные и радостные для детских комнат.&lt;br /&gt;
+	&lt;strong&gt;Привнесите красоту и изысканность в атмосферу вашей жизни!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Нажмите на фото для увеличения&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Шторы для гостиной&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=curtain %)&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Шторы для кухни, столовой&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=diningroom %)&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Шторы для детской&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=childroom %)&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Шторы для спальни&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=bedroom %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[saltanat]]></author><menuOrder><![CDATA[1]]></menuOrder></item>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[meetus]]></title><slug>meetus</slug><value><![CDATA[Договоритесь о встрече
+Вы заинтересованы в том, чтобы больше узнать о нашей продукции и ценах на товары? Напишите письмо нам на странице &lt;a target=&quot;_self&quot; href=&quot;/kontakty/&quot;&gt;Контакты&lt;/a&gt;. Скажите, когда Вам удобней всего встретиться, и мы постарамся подстроить наше расписание]]></value></item><item><title><![CDATA[Sidebar]]></title><slug>sidebar</slug><value><![CDATA[&lt;ul&gt; 
+&lt;li&gt;XML based data storage&lt;/li&gt; 
+&lt;li&gt;Best-in-Class User Interface&lt;/li&gt; 
+&lt;li&gt;&#039;Undo&#039; protection &amp;amp; backups&lt;/li&gt; 
+&lt;li&gt;Easy to theme&lt;/li&gt; 
+&lt;li&gt;Great documentation&lt;/li&gt; 
+&lt;li&gt;Growing community&lt;/li&gt; 
+&lt;/ul&gt;
+&lt;p&gt;This is your sidebar text. Please change me in &lt;em&gt;Theme -&gt; Edit Components&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://get-simple.info/download/&quot;&gt;Download the Latest GetSimple&lt;/a&gt;&lt;/p&gt;]]></value></item><item><title><![CDATA[Tagline]]></title><slug>tagline</slug><value><![CDATA[Услуги по пошиву штор, чехлов для мягкой мебели и изделий для дома]]></value></item></channel>

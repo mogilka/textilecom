@@ -1,0 +1,7 @@
+[02-Feb-2013 14:59:02] PHP Warning:  chmod(): Operation not permitted in /var/www/textilecom.kz/admin/inc/template_functions.php on line 1011
+[03-Feb-2013 11:57:14] PHP Parse error:  syntax error, unexpected $end in /var/www/textilecom.kz/theme/textile/gtemplate.php on line 33
+[03-Feb-2013 15:37:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvezd599/public_html/textilecom.kz/plugins/DM_contactable/lang/ru_RU.php:1) in /home/zvezd599/public_html/textilecom.kz/admin/inc/cookie_functions.php on line 23
+[03-Feb-2013 15:37:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvezd599/public_html/textilecom.kz/plugins/DM_contactable/lang/ru_RU.php:1) in /home/zvezd599/public_html/textilecom.kz/admin/inc/cookie_functions.php on line 24
+[03-Feb-2013 15:37:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvezd599/public_html/textilecom.kz/plugins/DM_contactable/lang/ru_RU.php:1) in /home/zvezd599/public_html/textilecom.kz/admin/inc/login_functions.php on line 71
+[03-Feb-2013 16:42:55] PHP Warning:  chmod() has been disabled for security reasons in /home/zvezd599/public_html/textilecom.kz/admin/inc/basic.php on line 278
+[03-Feb-2013 16:42:55] PHP Warning:  chmod() has been disabled for security reasons in /home/zvezd599/public_html/textilecom.kz/admin/inc/basic.php on line 278

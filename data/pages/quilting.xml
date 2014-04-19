@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 10 Jul 2013 21:55:07 +0600</pubDate><title><![CDATA[Одеяла, стёганые изделия]]></title><url><![CDATA[quilting]]></url><meta><![CDATA[пошив одеял, пошив постельного белья, дизайн и пошив стёганых изделий, квилтинг, Астана, Казахстан, ]]></meta><metad><![CDATA[Студия текстильного дизайна Saltanat Brand Company - услуги по пошиву. Замеры на дому и доставка бесплатно. Большой выбор тканей. Казахстан, Астана]]></metad><menu><![CDATA[Одеяла, стёганые изделия]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[portfolio]]></parent><content><![CDATA[&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Тёплые, изготовленные из натуральных тканей стёганые изделия&amp;nbsp;ручной работы согреют вас и ваших близких.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Нажмите на фото для увеличения&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Одеяла&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=blanket %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[saltanat]]></author><menuOrder><![CDATA[2]]></menuOrder></item>

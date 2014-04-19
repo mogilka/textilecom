@@ -1,0 +1,161 @@
+/* theodin.co.uk -Designed and developed by Philip Beel All Rights Reserved*/
+
+/* 
+------------------------------------------------------------------------------------------------------Genetic--------------*/
+
+/* Reset */
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img { 
+	border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-weight:bold;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h
+q:before,q:after {
+	content:'';
+}
+abbr,acronym { border:0;
+}
+
+#contactable {
+	background: url(../images/contact.png) no-repeat;
+	color: #FFFFFF;
+	cursor: pointer;
+	height: 155px;
+	right: 0;
+    margin: 0 auto;
+/*	margin-left:0px; 
+	*margin-left:-3px; */
+	overflow:hidden;
+/*	position:fixed;
+	*position:absolute;
+	text-indent:-100000px;
+	top:175px;
+	*margin-top:10px;*/
+	width: 25px;
+	z-index:1000000;
+    opacity: 1;
+}
+#contactable:hover {
+    opacity: 0.8;
+}
+
+#contactForm {
+    background: #966 !important;
+	padding-bottom:10px;
+	bottom:0; /* left */
+	margin-bottom:-400px; /* left */
+	*margin-bottom:-434px; /* left */
+/*	margin-left:-160px;*/ /* top */
+	padding-top:0px;
+	overflow:hidden;
+	padding-left:30px;
+	position:fixed;
+	right: 14%; /* top:285px; */
+	width:360px;
+	*width:394px;
+	z-index:99;
+}
+
+form#contactForm input, textarea {
+	background:#FFFFFF none repeat scroll 0 0;
+	outline-style:none;
+	outline-width:medium;
+	width: 336px;
+	padding:5px;
+	border:1px solid #CFC69B;
+	font-family: arial;
+	font-size:1em;
+	margin-bottom:10px;
+}
+
+form#contactForm .submit {
+	background: #c99 none repeat scroll 0 0;
+	outline-style:none;
+	outline-width:medium;
+	width: 45%;
+	padding:5px;
+	outline-color:-moz-use-text-color;
+	font-size:1em;
+	cursor:pointer;
+	color:#FFF;
+	text-transform:uppercase;
+	font-weight:bolder;
+	margin-top:10px;
+    margin-right: 5px;
+}
+
+form#contactForm p {
+	font-size: 0.9em;
+	margin-top: 0px;
+    text-align: center;
+	width: 100%;
+}
+
+form#contactForm .disclaimer {
+	*margin-left:20px;
+	color:#fff;
+}
+
+#contactForm .red {
+	color:	#fff;
+}
+
+#overlay {
+	background-color:#666666;
+	display:none;
+	height:100%;
+	left:0;
+	margin:0;
+	padding:0;
+	position:absolute;
+	top:0;
+	width:100%;
+	z-index:0;
+} 
+
+#contactForm .error { background-color: #82D2E3; padding:5px 0; width:336px; border:0px; }
+#name.error { background-color: #ffc; padding:5px 0; width:336px; border: 1px solid red; } 
+#email.error { background-color: #ffc; padding:5px 0; width:336px; border: 1px solid red;}
+#comment.error { width: inherit; background-color: #ffc; padding:5px 0; width:337px; border: 1px solid red; }
+
+form#contactForm label{
+	*margin-left:20px;
+	color:#fff;
+	padding-bottom:4px;
+}
+
+form#contactForm #loading {
+	background: url(../images/ajax-loader.gif) no-repeat;
+	width:55px;
+	height:55px;
+	margin: 100px auto;
+	display:none;
+}
+
+#callback {
+	color: #FFF;
+	display: none;
+	font-size: 1.1em;
+	margin: 100px auto;	
+    text-align: center;
+	width: 95%;
+}
+
+
+.holder {
+	margin:0 auto;
+	*margin-left:20px;
+	padding-top:20px;	
+}

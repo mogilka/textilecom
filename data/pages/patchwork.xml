@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 10 Jul 2013 21:55:25 +0600</pubDate><title><![CDATA[Курак-корпе, лоскутное шитьё]]></title><url><![CDATA[patchwork]]></url><meta><![CDATA[пошив курак-корпе, Казахстан, Астана, лоскутное шитьё ручной работы, национальные казахские изделия для дома, пэчворк, ]]></meta><metad><![CDATA[Студия текстильного дизайна Saltanat Brand Company - услуги по пошиву. Замеры на дому и доставка бесплатно. Большой выбор тканей. Казахстан, Астана]]></metad><menu><![CDATA[Курак-корпе, лоскутное шитьё]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[portfolio]]></parent><content><![CDATA[&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Курак-корпе, подушки и лоскутное шитьё ручной работы украсят ваш дом и станут приятным подарком вашим близким и друзьям.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	Нажмите на фото для увеличения&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Курак-корпе&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=korpe %)&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	&lt;strong&gt;Пэчворк (лоскутное шитьё)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+	(% gallery name=patchwork %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[saltanat]]></author><menuOrder><![CDATA[3]]></menuOrder></item>
